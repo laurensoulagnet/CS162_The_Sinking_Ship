@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1417473075 source:c:\users\lauren\documents\computer science degree\cs162\final\main.cpp
+	"room.h"
+	"setrooms.h"
+	"finalroom.h"
+	"ocean.h"
+	"roomswithpeople.h"
+	"roomwithoutpeople.h"
+	<iostream>
+	<vector>
+	<string>
+
+1417473065 source:c:\users\lauren\documents\computer science degree\cs162\final\room.cpp
+	"room.h"
+	<iostream>
+
+1417473630 c:\users\lauren\documents\computer science degree\cs162\final\room.h
+	<iostream>
+	<vector>
+	<string>
+
+1417642946 source:c:\users\lauren\documents\computer science degree\cs162\final\roomswithpeople.cpp
+	"roomswithpeople.h"
+	"moveitems.h"
+	"room.h"
+	<iostream>
+
+1417470659 c:\users\lauren\documents\computer science degree\cs162\final\roomswithpeople.h
+	"room.h"
+	<string>
+	<iostream>
+
+1417393834 source:\\lauren-hp\users\lauren\documents\computer science degree\cs162\final\room.cpp
+	"room.h"
+	<iostream>
+
+1417398124 \\lauren-hp\users\lauren\documents\computer science degree\cs162\final\room.h
+	<iostream>
+	<vector>
+	<string>
+
+1417394017 source:\\lauren-hp\users\lauren\documents\computer science degree\cs162\final\roomswithpeople.cpp
+	"roomswithpeople.h"
+	<iostream>
+
+1417394017 \\lauren-hp\users\lauren\documents\computer science degree\cs162\final\roomswithpeople.h
+	"room.h"
+	<string>
+	<iostream>
+
+1417383591 source:\\lauren-hp\users\lauren\documents\computer science degree\cs162\final\lab8.cpp
+	<iostream>
+
+1417394595 source:\\lauren-hp\users\lauren\documents\computer science degree\cs162\final\main.cpp
+	"room.h"
+	<iostream>
+
+1417383591 source:c:\users\lauren\documents\computer science degree\cs162\final\lab8.cpp
+	<iostream>
+
+1417467274 source:c:\users\lauren\documents\computer science degree\cs162\final\moveitems.cpp
+	"moveitems.h"
+	<iostream>
+	<vector>
+	<string>
+
+1417412717 c:\users\lauren\documents\computer science degree\cs162\final\moveitems.h
+	<iostream>
+	<vector>
+	<string>
+
+1417642876 source:c:\users\lauren\documents\computer science degree\cs162\final\roomwithoutpeople.cpp
+	"roomwithoutpeople.h"
+	"moveitems.h"
+	"room.h"
+	<iostream>
+
+1417412717 c:\users\lauren\documents\computer science degree\cs162\final\roomwithoutpeople.h
+	"room.h"
+	<iostream>
+
+1417475473 source:c:\users\lauren\documents\computer science degree\cs162\final\finalroom.cpp
+	"finalroom.h"
+	<iostream>
+
+1417469432 c:\users\lauren\documents\computer science degree\cs162\final\finalroom.h
+	<iostream>
+	"ocean.h"
+
+1417473630 c:\users\lauren\documents\computer science degree\cs162\final\ocean.h
+	"room.h"
+	<iostream>
+
+1417474327 source:c:\users\lauren\documents\computer science degree\cs162\final\ocean.cpp
+	"ocean.h"
+	<iostream>
+	<iostream>
+
+1417465327 c:\users\lauren\documents\computer science degree\cs162\final\setrooms.h
+	<iostream>
+	<vector>
+	<string>
+	"room.h"
+
+1417475473 source:c:\users\lauren\documents\computer science degree\cs162\final\setrooms.cpp
+	"setrooms.h"
+	"finalroom.h"
+	"ocean.h"
+	"room.h"
+	"roomswithpeople.h"
+	"roomwithoutpeople.h"
+	<iostream>
+	<vector>
+	<string>
+
+1417666013 source:c:\users\lauren\documents\computer science degree\cs162\final assignment\finalroom.cpp
+	"finalroom.h"
+	<iostream>
+
+1417670079 c:\users\lauren\documents\computer science degree\cs162\final assignment\finalroom.h
+	<iostream>
+	"ocean.h"
+
+1417670079 c:\users\lauren\documents\computer science degree\cs162\final assignment\ocean.h
+	"room.h"
+	<iostream>
+
+1417670079 c:\users\lauren\documents\computer science degree\cs162\final assignment\room.h
+	<iostream>
+	<vector>
+	<string>
+
+1417666014 source:c:\users\lauren\documents\computer science degree\cs162\final assignment\moveitems.cpp
+	"moveitems.h"
+	<iostream>
+	<vector>
+	<string>
+
+1417670079 c:\users\lauren\documents\computer science degree\cs162\final assignment\moveitems.h
+	<iostream>
+	<vector>
+	<string>
+
+1417666013 source:c:\users\lauren\documents\computer science degree\cs162\final assignment\ocean.cpp
+	"ocean.h"
+	<iostream>
+	<iostream>
+
+1417666013 source:c:\users\lauren\documents\computer science degree\cs162\final assignment\room.cpp
+	"room.h"
+	<iostream>
+
+1417666013 source:c:\users\lauren\documents\computer science degree\cs162\final assignment\roomwithoutpeople.cpp
+	"roomwithoutpeople.h"
+	"moveitems.h"
+	"room.h"
+	<iostream>
+
+1417670079 c:\users\lauren\documents\computer science degree\cs162\final assignment\roomwithoutpeople.h
+	"room.h"
+	<iostream>
+
+1417666013 source:c:\users\lauren\documents\computer science degree\cs162\final assignment\setrooms.cpp
+	"setrooms.h"
+	"finalroom.h"
+	"ocean.h"
+	"room.h"
+	"roomswithpeople.h"
+	"roomwithoutpeople.h"
+	<iostream>
+	<vector>
+	<string>
+
+1417670079 c:\users\lauren\documents\computer science degree\cs162\final assignment\setrooms.h
+	<iostream>
+	<vector>
+	<string>
+	"room.h"
+
+1417670079 c:\users\lauren\documents\computer science degree\cs162\final assignment\roomswithpeople.h
+	"room.h"
+	<string>
+	<iostream>
+
